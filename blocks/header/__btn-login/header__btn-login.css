@@ -1,0 +1,13 @@
+.header__btn-login {
+  margin: 0;
+  margin-right: 37px;
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 1.46;
+  color: #9E9AA8;
+}

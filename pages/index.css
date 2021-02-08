@@ -5,6 +5,13 @@
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu-item/header__menu-item.css);
+@import url(../blocks/header/__btns/header__btns.css);
+@import url(../blocks/header/__btn-login/header__btn-login.css);
+@import url(../blocks/header/__btn-sighin/header__btn-signin.css);
+
 
 @import url(../blocks/main/main.css);
 
