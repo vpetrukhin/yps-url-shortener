@@ -1,0 +1,17 @@
+.form__input {
+  box-sizing: border-box;
+  width: 75%;
+  height: 64px;
+  padding: 14px 32px;
+  background: #FFFFFF;
+  border-radius: 10px;
+}
+.form__input::placeholder {
+  font-family: Poppins Medium;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.8;
+  letter-spacing: 0.15px;
+  color: #34313D;
+  opacity: 0.5;
+}

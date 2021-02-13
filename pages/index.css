@@ -7,6 +7,7 @@
 @import url(../blocks/first-section/first-section.css);
 @import url(../blocks/first-section/__inner/first-section__inner.css);
 @import url(../blocks/first-section/__image/first-section__image.css);
+@import url(../blocks/first-section/__form-wrapper/first-section__form-wraper.css);
 
 @import url(../blocks/container/container.css);
 
@@ -23,6 +24,9 @@
 @import url(../blocks/offer/__subtitle/offer__subtitle.css);
 @import url(../blocks/offer/__btn/offer__btn.css);
 
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__input/form__input.css);
+@import url(../blocks/form/__btn/form__btn.css);
 
 @import url(../blocks/main/main.css);
 

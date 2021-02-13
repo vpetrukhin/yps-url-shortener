@@ -1,0 +1,9 @@
+.first-section__form-wraper {
+  width: 1100px;
+  height: 168px;
+  position: absolute;
+  bottom: 0px;
+  display: flex;
+  border-radius: 10px;
+  background: #3A3054 url(../../../images/bg-shorten-desktop.svg) center no-repeat;
+}
