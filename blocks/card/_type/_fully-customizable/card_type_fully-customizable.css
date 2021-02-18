@@ -1,0 +1,7 @@
+.card_type_fully-customizable {
+  margin-top: 88px;
+}
+
+.card_type_fully-customizable>.card__image {
+  background: #3A3054 url(../../../../images/icon-fully-customizable.svg) center no-repeat;
+}

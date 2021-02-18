@@ -1,0 +1,9 @@
+.card__image {
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  top: -44px;
+  left: 32px;
+  background: #3A3054 url(../../../images/icon-brand-recognition.svg) center no-repeat;
+  border-radius: 50%;
+}

@@ -1,0 +1,7 @@
+.card_type_detailed-records {
+  margin-top: 44px;
+}
+
+.card_type_detailed-records>.card__image {
+  background: #3A3054 url(../../../../images/icon-detailed-records.svg) center no-repeat;
+}

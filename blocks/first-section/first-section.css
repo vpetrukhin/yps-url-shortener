@@ -2,8 +2,7 @@
   height: 100vh;
   padding-top: 48px;
   background-color: #fff;
-  overflow: hidden;
-  position: relative;
+  overflow-x: hidden;
 }
 
 

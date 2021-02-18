@@ -1,0 +1,11 @@
+.feutures__title {
+  margin: 0;
+  margin-bottom: 18px;
+  font-family: Poppins Bold, sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: -1px;
+  color: #34313D;
+}

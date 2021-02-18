@@ -1,0 +1,8 @@
+.card__text {
+  margin: 0;
+  font-family: Poppins Medium, sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 1.73;
+  color: #9E9AA8;
+}

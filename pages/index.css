@@ -30,4 +30,17 @@
 
 @import url(../blocks/main/main.css);
 
+@import url(../blocks/feutures/feutures.css);
+@import url(../blocks/feutures/__heading/feutures__heading.css);
+@import url(../blocks/feutures/__title/feutures__title.css);
+@import url(../blocks/feutures/__subtitle/feutures__subtitle.css);
+@import url(../blocks/feutures/__cards/feutures__cards.css);
+@import url(../blocks/feutures/__line/feutures__line.css);
+
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/_type/_detailed-records/card_type_detailed-records.css);
+@import url(../blocks/card/_type/_fully-customizable/card_type_fully-customizable.css);
+
 @import url(../blocks/footer/footer.css);
