@@ -1,0 +1,11 @@
+.start__title {
+  margin: 0;
+  margin-bottom: 32px;
+  font-family: Poppins Bold;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: -1px;
+  color: #FFFFFF;
+}

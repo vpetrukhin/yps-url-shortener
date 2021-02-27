@@ -1,0 +1,5 @@
+.start {
+  box-sizing: border-box;
+  padding: 57px 0;
+  background: #3A3054 url(../../images/bg-shorten-desktop.svg) center/cover no-repeat;
+}
