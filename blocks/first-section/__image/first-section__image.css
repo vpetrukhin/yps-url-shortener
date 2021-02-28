@@ -4,4 +4,12 @@
   position: absolute;
   top: 0;
   right: -288px;
+  margin-bottom: 100px;
+}
+
+@media screen and (max-width:1000px) {
+  .first-section__image {
+    position: relative;
+    right: 0;
+  }
 }

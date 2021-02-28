@@ -25,6 +25,7 @@
 @import url(../blocks/offer/__subtitle/offer__subtitle.css);
 @import url(../blocks/offer/__btn/offer__btn.css);
 
+@import url(../blocks/form__wrapper/form-wraper.css);
 @import url(../blocks/form/form.css);
 @import url(../blocks/form/__input/form__input.css);
 @import url(../blocks/form/__btn/form__btn.css);

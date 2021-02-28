@@ -8,3 +8,12 @@
   letter-spacing: 0.15px;
   color: #9E9AA8;
 }
+
+@media screen and (max-width:1000px) {
+  .offer__subtitle {
+    font-size: 18px;
+    line-height: 1.67;
+    text-align: center;
+    letter-spacing: 0.122727px;
+  }
+}

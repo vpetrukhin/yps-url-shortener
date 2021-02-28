@@ -1,1 +1,8 @@
 /* .offer__btn {} */
+
+@media screen and (max-width:1000px) {
+  .offer__btn {
+    display: block;
+    margin: 0 auto;
+  }
+}

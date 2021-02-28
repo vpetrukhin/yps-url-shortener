@@ -11,3 +11,12 @@
   border-radius: 5px;
   order: 1;
 }
+
+@media screen and (max-width: 1100px) {
+  .card {
+    margin-bottom: 92px;
+  }
+  .card:last-of-type {
+    margin-bottom: 0;
+  }
+}

@@ -2,3 +2,9 @@
   max-width: 540px;
   margin: 0 auto 56px;
 }
+
+@media screen and (max-width: 1100px) {
+  .feutures__heading {
+    margin-bottom: 92px;
+  }
+}
