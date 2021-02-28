@@ -5,4 +5,8 @@
   overflow-x: hidden;
 }
 
-
+@media screen and (max-width:1000px) {
+  .first-section {
+    height: fit-content;
+  }
+}

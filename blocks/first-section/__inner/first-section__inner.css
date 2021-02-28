@@ -2,3 +2,9 @@
   margin-top: 78px;
   position: relative;
 }
+
+@media screen and (max-width:510px) {
+  .first-section__inner {
+    margin-top: 23px;
+  }
+}
