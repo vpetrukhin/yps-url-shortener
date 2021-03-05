@@ -9,3 +9,12 @@
   letter-spacing: -1px;
   color: #FFFFFF;
 }
+
+@media screen and (max-width: 365px) {
+  .start__title {
+    margin-bottom: 16px;
+    font-size: 28px;
+    line-height: 1.71;
+    letter-spacing: -0.7px;
+  }
+}

@@ -1,1 +1,11 @@
 /* .footer__column {} */
+
+@media screen and (max-width: 520px) {
+  .footer__column {
+    text-align: center;
+    
+  }
+  .footer__column:not(:last-of-type) {
+    margin-bottom: 40px;
+  }
+}

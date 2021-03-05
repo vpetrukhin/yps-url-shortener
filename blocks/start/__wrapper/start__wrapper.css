@@ -2,3 +2,9 @@
   max-width: 540px;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 365px) {
+  .start__wrapper {
+    width: 90%;
+  }
+}
