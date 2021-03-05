@@ -6,3 +6,9 @@
   line-height: 1.73;
   color: #9E9AA8;
 }
+
+@media screen and (max-width: 1100px) {
+  .card__text {
+    text-align: center;
+  }
+}

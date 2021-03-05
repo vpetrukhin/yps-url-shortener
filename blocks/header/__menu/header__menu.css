@@ -5,7 +5,7 @@
   display: flex;
 }
 
-@media screen and (max-width:620px) {
+@media screen and (max-width:690px) {
   .header__menu {
     display: none;
   }

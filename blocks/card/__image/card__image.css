@@ -4,12 +4,13 @@
   position: absolute;
   top: -44px;
   left: 32px;
+  
   background: #3A3054 url(../../../images/icon-brand-recognition.svg) center no-repeat;
   border-radius: 50%;
 }
 
 @media screen and (max-width: 1100px) {
   .card__image {
-    left: 132px;
+    left: calc(50% - 44px);
   }
 }

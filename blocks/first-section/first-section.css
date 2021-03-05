@@ -5,8 +5,14 @@
   overflow-x: hidden;
 }
 
-@media screen and (max-width:1000px) {
+@media screen and (max-width: 1000px) {
   .first-section {
     height: fit-content;
+  }
+}
+
+@media screen and (max-width: 510px) {
+  .first-section {
+    padding-top: 40px;
   }
 }

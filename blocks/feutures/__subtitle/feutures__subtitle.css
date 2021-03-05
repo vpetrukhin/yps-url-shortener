@@ -8,3 +8,11 @@
   letter-spacing: 0.122727px;
   color: #9E9AA8;
 }
+
+@media screen and (max-width: 400px) {
+  .feutures__subtitle {
+    font-size: 16px;
+    line-height: 1.75;
+    letter-spacing: 0.109091px;
+  }
+}

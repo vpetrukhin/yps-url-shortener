@@ -14,3 +14,9 @@
     top: 490px;
   }
 }
+
+@media screen and (max-width: 780px) {
+  .feutures__line {
+    width: 1000px;
+  }
+}
