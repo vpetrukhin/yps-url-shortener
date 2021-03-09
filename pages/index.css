@@ -4,16 +4,19 @@
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/button-started/button-started.css);
+@import url(../blocks/burger-btn/burger-btn.css);
+@import url(../blocks/form-wrapper/form-wraper.css);
 
 @import url(../blocks/first-section/first-section.css);
 @import url(../blocks/first-section/__inner/first-section__inner.css);
 @import url(../blocks/first-section/__image/first-section__image.css);
-@import url(../blocks/first-section/__form-wrapper/first-section__form-wraper.css);
+
 
 @import url(../blocks/container/container.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__nav/header__nav.css);
 @import url(../blocks/header/__menu/header__menu.css);
 @import url(../blocks/header/__menu-item/header__menu-item.css);
 @import url(../blocks/header/__btns/header__btns.css);
@@ -25,7 +28,6 @@
 @import url(../blocks/offer/__subtitle/offer__subtitle.css);
 @import url(../blocks/offer/__btn/offer__btn.css);
 
-@import url(../blocks/form__wrapper/form-wraper.css);
 @import url(../blocks/form/form.css);
 @import url(../blocks/form/__input/form__input.css);
 @import url(../blocks/form/__btn/form__btn.css);

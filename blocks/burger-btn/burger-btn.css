@@ -1,0 +1,25 @@
+.burger-btn {
+  display: none;
+  width: 24px;
+  height: 3px;
+  background: #9E9AA8;
+}
+
+.burger-btn::before,
+.burger-btn::after {
+  content: "";
+  display: block;
+  width: 24px;
+  height: 3px;
+  background: #9E9AA8;
+  transform: translateY(-9px);
+}
+.burger-btn::after {
+  transform: translateY(6px);
+}
+
+@media screen and (max-width: 690px) {
+  .burger-btn {
+    display: block;
+  }
+}

@@ -1,0 +1,18 @@
+.header__nav {
+  width: calc(100% - 165px);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 680px) {
+  .header__nav {
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: 60px;
+    z-index: 10;
+    background: #3A3054;
+    border-radius: 10px;
+  }
+}

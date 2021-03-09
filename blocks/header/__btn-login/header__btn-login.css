@@ -4,10 +4,22 @@
   padding: 0;
   background-color: transparent;
   border: none;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
   line-height: 1.46;
   color: #9E9AA8;
+}
+
+@media screen and (max-width:680px) {
+  .header__btn-login {
+    margin-right: 0;
+    margin-top: 32px;
+    margin-bottom: 24px;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+  }
 }

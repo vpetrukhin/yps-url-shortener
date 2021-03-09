@@ -9,3 +9,13 @@
   color: #9E9AA8;
   text-decoration: none;
 }
+
+@media screen and (max-width:680px) {
+  .header__menu-item {
+    margin-right: 0;
+    margin-bottom: 30px;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+  }
+}

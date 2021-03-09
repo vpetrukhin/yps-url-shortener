@@ -5,10 +5,19 @@
   border: none;
   background: #2BD0D0;
   border-radius: 28px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
   line-height: 1.46;
   color: #FFFFFF;
+}
+
+@media screen and (max-width: 680px) {
+  .header__btn-signin {
+    width: 100%;
+    height: 48px;
+    font-size: 18px;
+    line-height: 27px;
+  }
 }
