@@ -1,0 +1,9 @@
+.links__long-link {
+  max-width: 490px;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-right: auto;
+  color: #34313D;
+}

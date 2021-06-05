@@ -1,0 +1,11 @@
+.links__item {
+  padding: 18px 24px 18px 32px;
+  display: flex;
+  align-items: center;
+  background: #FFFFFF;
+  border-radius: 5px;
+}
+
+.links__item:not(:last-of-type) {
+  margin-bottom: 16px;
+}

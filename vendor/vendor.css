@@ -1,0 +1,23 @@
+.btn {
+  font-family: Poppins Bold;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  color: #FFFFFF;
+  border: none;
+  background: #2BD0D0;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 1s;
+  background: #2BD0D0;
+  border-radius: 5px;
+}
+.btn:hover {
+  background: #9AE3E3;
+}
+@media screen and (max-width: 800px) {
+  .btn {
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
