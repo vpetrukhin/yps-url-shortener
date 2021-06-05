@@ -3,3 +3,12 @@
   margin-right: 24px;
   color: #2BD0D0;
 }
+
+@media screen and (max-width:860px) {
+  .links__short-link {
+    margin-right: 0;
+    margin-bottom: 8px;
+    width: 100%;
+    text-align: left;
+  }
+}

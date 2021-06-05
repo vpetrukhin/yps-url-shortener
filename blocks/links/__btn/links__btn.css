@@ -1,3 +1,9 @@
 .links__btn {
   padding: 10px 31px 7px;
 }
+
+@media screen and (max-width:860px) {
+  .links__btn {
+    margin: 0 16px 16px;
+  }
+}

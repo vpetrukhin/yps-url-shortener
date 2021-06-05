@@ -6,3 +6,11 @@
   letter-spacing: 0.15px;
   text-decoration: none;
 }
+
+@media screen and (max-width:860px) {
+  .links__link-text {
+    text-align: left;
+    padding: 6px 0;
+    padding-left: 16px;
+  }
+}
