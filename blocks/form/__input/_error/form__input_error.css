@@ -1,0 +1,8 @@
+.form__input_error {
+  border: 3px solid #F46363;
+}
+
+.form__input_error::placeholder {
+  color: #F46363;
+  opacity: 0.5;
+}
