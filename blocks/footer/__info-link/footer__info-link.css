@@ -8,4 +8,9 @@
   letter-spacing: -0.234375px;
   color: #BFBFBF;
   text-decoration: none;
+  transition: color 1s;
+}
+
+.footer__info-link:hover {
+  color: #2BD0D0;
 }

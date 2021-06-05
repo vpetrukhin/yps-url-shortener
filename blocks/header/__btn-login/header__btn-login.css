@@ -10,6 +10,12 @@
   font-size: 15px;
   line-height: 1.46;
   color: #9E9AA8;
+  transition: color 1s;
+  cursor: pointer;
+}
+
+.header__btn-login:hover {
+  color: #34313D;
 }
 
 @media screen and (max-width:680px) {

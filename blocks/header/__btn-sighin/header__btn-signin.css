@@ -11,6 +11,12 @@
   font-size: 15px;
   line-height: 1.46;
   color: #FFFFFF;
+  cursor: pointer;
+  transition: background 1s;
+}
+
+.header__btn-signin:hover {
+  background: #9AE3E3;
 }
 
 @media screen and (max-width: 680px) {

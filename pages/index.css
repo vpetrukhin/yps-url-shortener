@@ -3,6 +3,7 @@
 
 
 @import url(../blocks/page/page.css);
+@import url(../vendor/vendor.css);
 @import url(../blocks/button-started/button-started.css);
 @import url(../blocks/burger-btn/burger-btn.css);
 @import url(../blocks/form-wrapper/form-wraper.css);
