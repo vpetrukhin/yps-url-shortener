@@ -12,6 +12,7 @@
     position: absolute;
     top: 60px;
     z-index: 10;
+    flex-direction: column;
     background: #3A3054;
     border-radius: 10px;
   }
